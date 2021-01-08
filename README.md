@@ -15,7 +15,9 @@
 ## Folder Structure:
 
 ```create a new folder to add new topic.```
+
 ```if a new topic is being created index.md is mandatory.```
+
 ```create a file with the problem name. and make sure to add the file name in toc of index.md```
 
 #### all the files will be in markdown format.
