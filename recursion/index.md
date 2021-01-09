@@ -3,7 +3,7 @@ title: 'Recursion'
 description: 'Discover how to use and solve problems using Recursion.'
 heroDescription: ''
 overview: "."
-order: 7
+order: 8
 themeColor: '#d35400'
 codeGithubUrl: 'https://github.com/vasantakmr/gurucodes'
 heroAnimationName: null

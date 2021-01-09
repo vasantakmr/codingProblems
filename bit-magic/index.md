@@ -1,21 +1,21 @@
 ---
-title: 'Greedy Algorithms'
-description: 'Discover how to solve problems using greedy algorithms.'
+title: 'Bit Magic'
+description: 'Discover how to use and solve problems using bit manipulation.'
 heroDescription: ''
-overview: ""
-order: 4
-themeColor: '#0079FF'
+overview: "."
+order: 3
+themeColor: '#d80073'
 codeGithubUrl: 'https://github.com/vasantakmr/gurucodes'
 heroAnimationName: null
 toc:
   [
-    'introduction',
-    'maximize-toys',
-    'shop-in-candy-store',
-    'minimize-sum-of-product',
-    'coin-piles',
-    'activity-selection',
-    'n-meetings-in-one-room',
+    'find-first-set-bit',
+    'rightmost-different-bit',
+    'check-whether-k-th-bit-is-set-or-not',
+    'set-kth-bit',
+    'power-of-2',
+    'bit-difference',
+    'longest-consecutive-1s',
   ]
 coverImagePath: '/guide-cover/intro.svg'
 thumbImagePath: '/guide-thumb/intro.svg'

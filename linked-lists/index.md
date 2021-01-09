@@ -3,7 +3,7 @@ title: 'Linked Lists'
 description: 'Discover how to use and solve problems using Linked List.'
 heroDescription: ''
 overview: "."
-order: 6
+order: 7
 themeColor: '#2c3e50'
 codeGithubUrl: 'https://github.com/vasantakmr/gurucodes'
 heroAnimationName: null
