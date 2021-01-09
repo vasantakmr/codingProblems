@@ -3,7 +3,7 @@ title: 'Intro to Stacks'
 description: 'Discover how to use and solve problems using Stacks.'
 heroDescription: ''
 overview: "."
-order: 4
+order: 5
 themeColor: '#FFB519'
 codeGithubUrl: 'https://github.com/vasantakmr/gurucodes'
 heroAnimationName: null

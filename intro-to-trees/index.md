@@ -3,7 +3,7 @@ title: 'Intro to Trees'
 description: '✍️Coming soon: Strong knowledge of theory is a must to be able to solve coding questions on Trees.'
 heroDescription: ''
 overview: ''
-order: 5
+order: 6
 themeColor: '#F5325B'
 codeGithubUrl: 'https://github.com/vasantakmr/gurucodes'
 heroAnimationName: null
