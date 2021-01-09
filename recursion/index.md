@@ -4,7 +4,7 @@ description: 'Discover how to use and solve problems using Recursion.'
 heroDescription: ''
 overview: "."
 order: 7
-themeColor: '#FFB519'
+themeColor: '#d35400'
 codeGithubUrl: 'https://github.com/vasantakmr/gurucodes'
 heroAnimationName: null
 toc:
