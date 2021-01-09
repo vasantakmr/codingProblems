@@ -11,6 +11,7 @@ toc:
   [
     'introduction',
     'flood-fill-algorithm',
+    'number-of-paths',
   ]
 coverImagePath: '/guide-cover/intro.svg'
 thumbImagePath: '/guide-thumb/intro.svg'
