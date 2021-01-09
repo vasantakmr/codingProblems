@@ -10,7 +10,13 @@ heroAnimationName: null
 toc:
   [
     'get-started',
+    'finding-middle-element-in-a-linked-list',
+    'reverse-a-linked-list',
+    'rotate-a-linked-list',
     'intersection-point-in-y-shapped-linked-lists',
+    'nth-node-from-end-of-linked-list',
+    'given-a-linked-list-of-0s-1s-and-2s-sort-it',
+    'delete-without-head-pointer',
   ]
 coverImagePath: '/guide-cover/intro.svg'
 thumbImagePath: '/guide-thumb/intro.svg'
