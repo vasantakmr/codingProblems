@@ -14,6 +14,8 @@ toc:
     'reverse-a-linked-list',
     'rotate-a-linked-list',
     'intersection-point-in-y-shapped-linked-lists',
+    'detect-loop-in-linked-list',
+    'remove-loop-in-linked-list',
     'nth-node-from-end-of-linked-list',
     'given-a-linked-list-of-0s-1s-and-2s-sort-it',
     'delete-without-head-pointer',
